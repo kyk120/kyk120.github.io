@@ -1,2 +1,2 @@
 # kyk120.github.io
-here<a href="kyk120.github.io/CV.pdf" target="_blank">PDF.</a>
+here<a href="CV.pdf" target="_blank">PDF.</a>
